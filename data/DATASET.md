@@ -1,0 +1,36 @@
+- **URL Characteristics**:
+  - `qty_dot_url`, `qty_hyphen_url`, and other columns represent quantities of specific characters in the URL.
+  - `length_url`: Length of the URL.
+  - `qty_dot_domain`, `qty_hyphen_domain`, and other columns represent quantities of specific characters in the domain part of the URL.
+  - `domain_length`: Length of the domain.
+  - `domain_in_ip`: Indicates whether the domain is represented by an IP address.
+  - `server_client_domain`: Indicates the relationship between the server and client in the domain.
+  - `qty_dot_directory`, `qty_hyphen_directory`, and others represent quantities of specific characters in the directory part of the URL.
+  - `directory_length`: Length of the directory part of the URL.
+  - `qty_dot_file`, `qty_hyphen_file`, and others represent quantities of specific characters in the file part of the URL.
+  - `file_length`: Length of the file part of the URL.
+  - `qty_dot_params`, `qty_hyphen_params`, and others represent quantities of specific characters in the parameters part of the URL.
+  - `params_length`: Length of the parameters part of the URL.
+  - `tld_present_params`: Indicates whether the top-level domain is present in the parameters.
+
+- **Domain and Server Characteristics**:
+  - `domain_spf`: Indicates the presence of SPF (Sender Policy Framework) records for the domain.
+  - `asn_ip`: Autonomous System Number (ASN) of the IP address.
+  - `time_domain_activation`: Time of domain activation.
+  - `time_domain_expiration`: Time of domain expiration.
+  - `qty_ip_resolved`: Quantity of IP addresses resolved from the URL.
+  - `qty_nameservers`: Quantity of name servers associated with the domain.
+  - `qty_mx_servers`: Quantity of mail servers associated with the domain.
+  - `ttl_hostname`: Time to live (TTL) for the hostname.
+  - `tls_ssl_certificate`: Presence of TLS/SSL certificate.
+  - `qty_redirects`: Quantity of redirects.
+  - `url_google_index`: Indicates whether the URL is indexed by Google.
+  - `domain_google_index`: Indicates whether the domain is indexed by Google.
+  - `url_shortened`: Indicates whether the URL is shortened.
+
+- **Other Features**:
+  - `email_in_url`: Indicates whether there is an email address in the URL.
+  - `time_response`: Time of response from the URL.
+
+- **Target Variable**:
+  - `phishing`: Indicates whether the URL is associated with phishing activities (1 for phishing, 0 for not phishing).
