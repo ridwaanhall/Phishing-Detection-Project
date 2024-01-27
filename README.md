@@ -9,5 +9,4 @@ phishing_detection_project/
 │   └── dataset_small.csv
 │
 └── README.md
-
 ```
