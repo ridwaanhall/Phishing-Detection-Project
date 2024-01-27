@@ -7,7 +7,7 @@ gabut bang gada project.
 ```
 phishing_detection_project/
 │
-├── paper of dataset/
+├── paper of the dataset/
 │   ├── 1-s2.0-S2352340920313202-main.pdf
 │   └── README.md
 │
