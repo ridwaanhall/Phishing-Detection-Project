@@ -39,7 +39,7 @@ To start the project in 3 months, you can follow this tentative plan:
     - Test the optimized model on unseen data and measure its response time and latency.
 - **3rd month**: Solution Design, System Architecture, and Deployment
     - Create the high-level document, low-level document, architecture document, and wireframe document for your project, following the sample links given in the document.
-    - Expose your complete solution as an API or create a user interface for your model testing, using any cloud platform or edge device of your choice¹[1].
+    - Expose your complete solution as an API or create a user interface for your model testing, using any cloud platform or edge device of your choice.
     - Implement logging for every action performed by your code and use AI ops pipelining for project delivery, if possible.
-    - Record a project demo video and write a detailed project report, following the sample links given in the document²[2].
-    - Post your project detail on LinkedIn and submit all the required links and documents in your dashboard³[3].
+    - Record a project demo video and write a detailed project report, following the sample links given in the document.
+    - Post your project detail on LinkedIn and submit all the required links and documents in your dashboard.
