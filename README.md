@@ -22,7 +22,6 @@ phishing_detection_project/
 ```
 
 ## Project Board - Step by Step in 3 months
-
 This project is about **Phishing Domain Detection** using **Machine Learning Technology** in the domain of **Cyber Security**. The document outlines the problem statement, the approach, the evaluation metrics, the submission requirements, and the dataset link for your project.
 
 To start the project in 3 months, you can follow this tentative plan:
